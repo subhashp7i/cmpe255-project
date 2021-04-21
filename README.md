@@ -59,9 +59,7 @@ In the future, we plan to explore even more state-of-the-art GAN research. In pa
 Face aging, also known as age synthesis and age progression, is defined as aesthetically rendering a face image with natural aging and rejuvenating effects on the individual face. It has plenty of applications in various domains including cross-age face recognition, finding lost children
 and entertainment. 
 
-
-# Notable papers exploring this space.
-
+### Notable papers exploring this space.
 [1. Wang_Face_Aging_With_CVPR_2018_paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Face_Aging_With_CVPR_2018_paper.pdf)
 
 [2. Face Aging With Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1702.01983.pdf)
