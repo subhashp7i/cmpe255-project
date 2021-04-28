@@ -65,7 +65,7 @@ human faces. Natural image generation has been thoroughly studied for years, but
 2. Age Clissification module 
 
 ### Face Aging using GANs
-!["Architecture Diagram"](photos/face ageing architecture diagram.png)
+![](photos/face ageing architecture diagram.png)
 
 ### Dataset
 IMDB-Wiki cleaned dataset of about 120K images. 
